@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Babble</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT ?</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="log_out">Log Out</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_status">Hi there, I\'m using Babble</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="firstAboutUs">We envision a world where people have meaningful experience with the social media platform and organizations on which they can trust, whether in person or online. This is a mammoth world and we can help you to communicate with some of our best online chatting applications.</string>
+    <string name="mission">Day in and day out, we are determined to be your trusted online service provider. Working together, we can make sense of your customer data and improve your digital marketing strategy. The outcome: Better digital experiences for our customers. More conversions for your business.</string>
+    <string name="terms">Welcome to Babble... The terms and conditions included govern your access to the use of this android application. By using the application you accept the terms of service and agree to be bound and abide by these rules. By using this application you represent and warrant that the profile created by you is not fake and this profile shall not be misused under any circumstance.  If you do not meet all these requirements then in that scenario you are not eligible to use this application. Our customer support is available 24/7, if you have any queries regarding the application then you are free to contact us.</string>
+</resources>
