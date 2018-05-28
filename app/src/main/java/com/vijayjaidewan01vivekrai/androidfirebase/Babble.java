@@ -16,7 +16,7 @@ import com.squareup.picasso.Picasso;
  * Created by MR VIVEK RAI on 24-05-2018.
  */
 
-public class LapitChat extends Application {
+public class Babble extends Application {
 
     private DatabaseReference mUserDatabase;
     private FirebaseAuth mAuth;
